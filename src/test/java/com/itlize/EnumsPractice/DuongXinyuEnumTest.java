@@ -10,7 +10,7 @@ public class DuongXinyuEnumTest {
     @Test
     public void testDuongName() {
         // Given
-        Duong duong = DuongXinyuEnum.Duong;
+        Duong Duong = DuongXinyuEnum.Duong;
         String expected = "Duong";
 
         // When
